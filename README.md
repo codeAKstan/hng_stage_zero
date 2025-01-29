@@ -27,7 +27,7 @@ This is a simple public API built with Django that returns basic information in 
     {
         "email": "anigbomosesstan@gmail.com",
         "current_datetime": "2025-01-29T21:26:29.382403Z",
-        "github_url": "https://github.com/codeAKstan/hng_stage_zero.git"
+        "github_url": "https://github.com/codeAKstan/hng_stage_zero"
     }
 
 
